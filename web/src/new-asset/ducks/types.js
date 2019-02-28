@@ -1,0 +1,15 @@
+const GET_KEYS = "GET_KEYS";
+const SET_KEYS = "SET_KEYS";
+const CREATE_KEY = "CREATE_KEY";
+const ADD_KEY = "ADD_KEY";
+const CHANGE_PAGE = "CHANGE_PAGE";
+const CHANGE_ROWS_PER_PAGE = "CHANGE_ROWS_PER_PAGE";
+
+export default {
+    GET_KEYS,
+    SET_KEYS,
+    CREATE_KEY,
+    ADD_KEY,
+    CHANGE_PAGE,
+    CHANGE_ROWS_PER_PAGE
+}
